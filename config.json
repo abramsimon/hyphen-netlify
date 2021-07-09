@@ -1,19 +1,11 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://hyphen-stage.netlify.app",
+  "site_title": "Hyphen (stage netlify test)",
+  "site_description": "This is a test site for migrating usehyphen to netlify",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "hyphen"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@gethyphen",
+  "github_account": "onofoodco"
 }
