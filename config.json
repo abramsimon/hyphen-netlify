@@ -4,7 +4,8 @@
   "site_description": "This is a test site for migrating usehyphen to netlify",
   "site_keywords": [
     "hyphen",
-    "salads"
+    "salads",
+    "robots"
   ],
   "posts_per_page": 5,
   "twitter_account": "@gethyphen",
