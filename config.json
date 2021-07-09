@@ -3,15 +3,7 @@
   "site_title": "Hyphen (stage netlify test)",
   "site_description": "This is a test site for migrating usehyphen to netlify",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "hyphen"
   ],
   "posts_per_page": 5,
   "twitter_account": "@gethyphen",
